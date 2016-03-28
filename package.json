@@ -4,7 +4,7 @@
   "description": "A champion page prototype.",
   "scripts": {
     "start": "nodemon server.js",
-    "postinstall": "gulp build && gulp sass"
+    "postinstall": "gulp bundle && gulp sass"
   },
   "author": "Joshua Ray <jray@singularity-interactive.com>",
   "license": "MIT",
