@@ -20,7 +20,6 @@ const HeaderNavigation = React.createClass({
         <h1>Champion Page</h1>
         <ul>
           <li><Link to="/home">Home</Link></li>
-          <li><Link to="/listen">Listen</Link></li>
         </ul>
       </nav>
     )
